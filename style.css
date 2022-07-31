@@ -1,0 +1,176 @@
+#header {
+    height: 56px;
+    background-color: #222222;
+    color: #222222;
+    
+}
+
+#menu {
+    right: 2%;
+    top: 30px;
+    height: 30px;
+    width: 30px;
+    background-color: aqua;
+    display: inline-block;
+    position:absolute;
+}
+
+#horn {
+    right: 5%;
+    top: 30px;
+    height: 30px;
+    width: 30px;
+    background-color: aqua;
+    display: inline-block;
+    position:absolute;
+}
+
+#search {
+    background-color: #222222;
+    height:216px;
+    position: relative;
+
+
+}
+#duckpicture {
+    display: inline-block;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    width: 250px;
+    height: 200px;
+}
+
+#searchWrap{
+    position: relative;
+    height: 46px;
+    background-color: #222222;
+
+}
+#searchBar {
+    display: inline-block;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    
+    
+}
+
+::placeholder {
+    text-align: left; }
+
+#divBelowSearch{
+    height: 244px;
+    background-color: #222222;
+}
+#bigText{
+    text-align: center;
+    line-height: 25px;
+    font-weight: 500;
+    color: aliceblue;
+    padding:0px;
+    margin: 0px;
+    
+   
+}
+.help {
+    font-size: 28px;
+    padding-bottom: 10px;
+}
+
+#useIt{
+    padding-top: 15px;
+}
+#theTrio{
+    padding-bottom: 12px;
+}
+.blueTick {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+}
+
+#smallest {
+    font-size: 11px;
+    margin: 0px;
+}
+
+#anyDevice{
+    font-size: medium;
+    text-align: center;
+    
+    height: 80px;
+    padding-top: 30px;
+    color: aliceblue;
+    background-color: #222222;
+}
+
+.col-4 {
+    padding-top: 20px;
+    text-align: center;
+    border-style: outset;
+    box-shadow: 2px;
+    border-width: 2px;
+    border-radius: 4%;
+    border-color: #222222;
+    color: aliceblue;
+    background-color: #282828;
+    max-width: 330px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body{
+    background-color: #58b792;
+}
+
+#bottomTexts {
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    
+    height: 600px;
+    
+
+}
+
+#bottomHeader {
+    font-size: 38px;
+    line-height: 48px;
+    font-weight: 600;
+    padding-top: 50px;
+    
+
+}
+
+#installButton {
+    position: relative;
+    top: 40px;
+    background-color: #616161;
+    color: aliceblue;
+    border-radius: 8px;
+    font-size: 18px;
+    opacity: 90%;
+    border: 0;
+    padding: 10px
+
+    
+}
+
+#GDPR{
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 15px;
+    
+}
+
+#snotBurner {
+   
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
