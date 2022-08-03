@@ -55,8 +55,12 @@
     transform: translate(-50%, -50%);
     position: absolute;
     
-    
 }
+#inputSearch {
+    background-color: #2e2d2d;
+    border-radius: 3px;
+}   
+    
 
 ::placeholder {
     text-align: left; }
